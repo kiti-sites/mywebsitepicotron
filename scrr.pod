@@ -1,2 +1,0 @@
---[[pod_format="raw",created="2025-05-03 22:09:31",modified="2025-05-03 22:09:31",revision=0]]
-{"{bgclr=0,draw=\"\",h=172,init=\"\",name=\"untitled_page\",update=\"\",w=300}","{action=\"\",action_text=\"\",clr=7,frames=1,func=\"\",function_text=\"\",h=50,imgdata=\"Hello! Welcome to my website. Here you can do: ~nothing~\",label=\"Hello! Welcome\\nto my website.\\nHere you can do:\\n~nothing~\\n\",type=\"text\",w=80,x=112,y=8}"}
